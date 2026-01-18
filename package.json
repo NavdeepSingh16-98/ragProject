@@ -1,0 +1,30 @@
+{
+  "name": "ragproject",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/NavdeepSingh16-98/ragProject#readme",
+  "bugs": {
+    "url": "https://github.com/NavdeepSingh16-98/ragProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavdeepSingh16-98/ragProject.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^4.13.9",
+    "@langchain/community": "^1.1.4",
+    "@langchain/core": "^1.1.15",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "ignore": "^7.0.5",
+    "langchain": "^1.2.10",
+    "openai": "^6.16.0"
+  }
+}
